@@ -1,0 +1,19 @@
+{
+  "name": "evrythng-cli-plugin-query",
+  "version": "0.0.1",
+  "description": "thng-query integration for evrythng-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-iam:evrythng/evrythng-cli-plugin-query.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "evrythng-extended": "^4.7.2",
+    "thng-query": "0.0.4"
+  }
+}
